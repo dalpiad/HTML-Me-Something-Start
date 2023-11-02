@@ -1,1 +1,73 @@
 /* Write your CSS here! */
+body {
+	margin: 8;
+	background-color: #749e9b;
+    display: block;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+#mainHeading {
+	text-align: left;
+    color: red;
+    background-color: #2b3b8a;
+}
+
+p {
+	padding: 1.25em;
+}
+
+.funParagraph {
+    background-color: #ffd07f;
+    color: green;
+}
+
+#cowboyBebop {
+    background-color: #d86315;
+}
+
+#kotoroLivesAlone {
+    background-color: #4436bd;
+}
+
+#loveIsWar {
+    background-color: #920162;
+}
+
+#deathnote {
+    color: white;
+    background-color: #000000;
+}
+
+#mobPsycho100 {
+    background-color: #a90606;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+    font-size: 1.6em;
+}
+
+img {
+	width: 100%;
+	max-width: 50%;
+}
+
+
+footer {
+	background-color: #2b8a85;
+	text-align: right;
+    font-size: 1.6em;
+}
